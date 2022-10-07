@@ -1,1 +1,7 @@
-Teste para upload ao GitHub
+# Teste para upload ao GitHub
+
+## git add .
+
+## git commit -m (Mensagem)
+
+## git push origin main
